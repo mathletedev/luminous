@@ -1,1 +1,3 @@
-# luminous
+# Luminous
+
+> A minimalistic todo app
